@@ -1,7 +1,7 @@
 ## Repository praktikum algoritma dan struktur data
 
 <pre>
-Nama : Arvinanto Bahtiar
-NIM : 2211110014
-Kelas : S1SD03-A
+Nama : Muhammad Iqbal
+NIM : 2311110013
+Kelas : S1SD04-A
 </pre>
